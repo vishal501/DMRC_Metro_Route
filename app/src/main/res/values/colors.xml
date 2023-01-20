@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--    metro line colors-->
+    <color name="red">#FF4040</color>
+    <color name="yellow">#FFDF00</color>
+    <color name="blue">#4169E1</color>
+    <color name="green">#20B2AA</color>
+    <color name="violet">#553592</color>
+    <color name="airport">#FF8C00</color>
+    <color name="orange">#FF8C00</color>
+    <color name="pink">#FC8EAC</color>
+    <color name="magenta">#CC338B</color>
+    <color name="grey">#838996</color>
+    <color name="silver">#C0C0C0</color>
+</resources>

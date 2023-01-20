@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.1528776978417266" />
+        <entry key="app/src/main/res/drawable/bd_curved_orange.xml" value="0.167" />
+        <entry key="app/src/main/res/drawable/bg_aqua_circle.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/bg_black_stroke.xml" value="0.1525" />
+        <entry key="app/src/main/res/drawable/bg_blue_circle.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/bg_button.xml" value="0.13" />
+        <entry key="app/src/main/res/drawable/bg_circle.xml" value="0.22" />
+        <entry key="app/src/main/res/drawable/bg_curved_grey.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/bg_curved_grey_to.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/bg_edittext.xml" value="0.116" />
+        <entry key="app/src/main/res/drawable/bg_edittext_from.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/bg_edittext_to.xml" value="0.326" />
+        <entry key="app/src/main/res/drawable/bg_edittext_tp.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/bg_green_circle.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/bg_grey_circle.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/bg_interchange_btn.xml" value="0.1045" />
+        <entry key="app/src/main/res/drawable/bg_magenta_circle.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/bg_orange_circle.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/bg_pink_circle.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/bg_red_circle.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/bg_rv.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/bg_splash.xml" value="0.14" />
+        <entry key="app/src/main/res/drawable/bg_text.xml" value="0.182" />
+        <entry key="app/src/main/res/drawable/bg_violet_circle.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/bg_yellow_circle.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_route.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/fragment_splash.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/list_item.xml" value="0.43706777316735823" />
+        <entry key="app/src/main/res/layout/metro_items.xml" value="0.5240464344941956" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.252" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.252" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

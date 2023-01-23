@@ -1,6 +1,5 @@
 package com.dmrcmetro.models
 
-
 import java.io.Serializable
 
 class Stations(val name: String) : Serializable {
@@ -259,9 +258,9 @@ class Stations(val name: String) : Serializable {
             users.add(Stations("GNIDA Office"))
             users.add(Stations("Depot"))
 
-
-
             return users
         }
     }
+
+
 }
